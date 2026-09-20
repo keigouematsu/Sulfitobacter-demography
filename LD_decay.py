@@ -5,6 +5,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from decimal import Decimal
 import os, glob
+from fractions import Fraction
 
 # fit with ms simulated data
 from scipy import interpolate
